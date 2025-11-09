@@ -675,7 +675,7 @@ export default function Properties() {
       <div className="container">
         <h2 className="section-title">Siteplan & Tipe Rumah</h2>
         <p className="section-subtitle">
-          Temukan rumah impian Anda di Sapphire Serenity Slawi. Kami menawarkan berbagai tipe rumah yang dirancang untuk
+          Temukan rumah impian Anda di Sapphire Residence Sumbang. Kami menawarkan berbagai tipe rumah yang dirancang untuk
           memenuhi kebutuhan dan gaya hidup Anda.
         </p>
 

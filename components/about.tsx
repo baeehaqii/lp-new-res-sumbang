@@ -28,7 +28,7 @@ export default function About() {
             <div className="about-image-container">
               <Image
                 src="https://res.cloudinary.com/dqobwse9q/image/upload/v1754879441/01_3_-_Photo_n758sx.png"
-                alt="Sapphire Serenity Slawi"
+                alt="Sapphire Residence Sumbang"
                 width={600}
                 height={450}
                 className="about-image"

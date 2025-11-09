@@ -43,8 +43,8 @@ export default function Accessibility() {
   return (
     <section id="aksesibilitas" className="accessibility-section">
       <div className="container">
-        <h2 className="section-title">Aksesibilitas yang Memudahkan</h2>
-        <h3 className="accessibility-subtitle">Segala Aktivitas</h3>
+        <h2 className="section-title">Akses Mudah</h2>
+        <h3 className="accessibility-subtitle">Terhubung dengan Segala Kebutuhan</h3>
 
         <div className="accessibility-grid">
           {facilities.map((facility, index) => (
