@@ -17,18 +17,30 @@ export default function Hero() {
 
   const heroSlides = [
     {
+<<<<<<< HEAD
       image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387157/Enscape_2025-09-25-15-54-19_VIEW_1_fvl3ce.avif",
+=======
+      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754879439/01_5_-_Photo_usd8ur.png",
+>>>>>>> a364b94ffc9a899b0ec5ab8ee6ef6da79a8285dd
       title: "One Stop Healthy Living",
       description:
         "Hidup sehat dimulai rumah.",
     },
     {
+<<<<<<< HEAD
       image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387129/Enscape_2025-09-25-14-20-14_VIEW_3_d60ler.avif",
+=======
+      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754879437/01_4_-_Photo_mzvqvw.png",
+>>>>>>> a364b94ffc9a899b0ec5ab8ee6ef6da79a8285dd
       title: "Hidup Sejuk di Tengah Alam",
       description: "Hunian modern di kaki Gunung Slamet dengan udara segar dan suasana yang menenangkan setiap hari.",
     },
     {
+<<<<<<< HEAD
       image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387046/Fasad_3_wjovlu.avif",
+=======
+      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1754879441/01_3_-_Photo_n758sx.png",
+>>>>>>> a364b94ffc9a899b0ec5ab8ee6ef6da79a8285dd
       title: "Hunian Nyaman, Investasi Menjanjikan",
       description: "Lokasi strategis di jalur wisata Baturaden, ideal untuk rumah tinggal sekaligus peluang usaha guest house.",
     },
