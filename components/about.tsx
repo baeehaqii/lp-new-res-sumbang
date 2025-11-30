@@ -27,7 +27,7 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dqobwse9q/image/upload/v1754879441/01_3_-_Photo_n758sx.png"
+                src="https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387070/Enscape_2025-09-25-15-08-12_VIEW_1_oakaaq.avif"
                 alt="Sapphire Residence Sumbang"
                 width={600}
                 height={450}
@@ -61,26 +61,26 @@ export default function About() {
           <div className="about-stats-grid">
             {/* Statistik - Projects Completed */}
             <div className="about-stat-card">
-              <div className="about-stat-value">5 menit</div>
-              <div className="about-stat-label">ke fasilitas kesehatan</div>
+              <div className="about-stat-value">9</div>
+              <div className="about-stat-label">Lokasi Terbaik di Jawa Bagian Selatan</div>
             </div>
 
             {/* Statistik - Awards */}
             <div className="about-stat-card">
-              <div className="about-stat-value">3 menit</div>
-              <div className="about-stat-label">ke fasilitas pendidikan</div>
+              <div className="about-stat-value">10.000+</div>
+              <div className="about-stat-label">Keluarga Sapphire</div>
             </div>
 
             {/* Statistik - Satisfied Clients */}
             <div className="about-stat-card">
-              <div className="about-stat-value">2 menit</div>
-              <div className="about-stat-label">ke fasilitas perbelanjaan</div>
+              <div className="about-stat-value">9</div>
+              <div className="about-stat-label">Proyek Unggulan</div>
             </div>
 
             {/* Statistik - Years of Experience */}
             <div className="about-stat-card">
-              <div className="about-stat-value">Bebas Polusi</div>
-              <div className="about-stat-label">Udara Segar</div>
+              <div className="about-stat-value">19</div>
+              <div className="about-stat-label">Tahun Pengalaman</div>
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@ export default function About() {
               <h2 className="modal-title">Sapphire Residence Sumbang</h2>
               <div className="modal-image">
                 <Image
-                  src="https://res.cloudinary.com/dqobwse9q/image/upload/v1754879441/01_3_-_Photo_n758sx.png"
+                  src="https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387070/Enscape_2025-09-25-15-08-12_VIEW_1_oakaaq.avif"
                   alt="Sapphire Residence Sumbang"
                   width={700}
                   height={400}

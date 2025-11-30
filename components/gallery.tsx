@@ -15,12 +15,12 @@ export default function Gallery() {
   // Data gambar-gambar yang ada di gallery
   const galleryImages = [
     {
-      src: "https://res.cloudinary.com/dqobwse9q/image/upload/v1754879437/elegant-living-room-interior-with-dark-blue-couch-matching-armchair-large-windows-with-drapes-decorative-rug-real-photo_ab8fru.jpg",
+      src: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387070/Enscape_2025-09-25-15-08-12_VIEW_1_oakaaq.avif",
       alt: "Modern luxury home exterior",
       type: "image",
     },
     {
-      src: "https://res.cloudinary.com/dqobwse9q/image/upload/v1754879437/01_4_-_Photo_mzvqvw.png",
+      src: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764387102/Enscape_2025-09-25-18-46-48_VIEW_1_ym8lgx.avif",
       alt: "Modern luxury home pool",
       type: "image",
     },
@@ -28,13 +28,13 @@ export default function Gallery() {
       src: "https://www.instagram.com/reel/DOGVzNykbUe/",
       alt: "Instagram Reel 1",
       type: "video",
-      thumbnail: "https://res.cloudinary.com/dqobwse9q/image/upload/v1754879434/01_Sumbang_potrait_ym2vtq.png",
+      thumbnail: "https://res.cloudinary.com/dqobwse9q/image/upload/v1764503776/Crop_r5c5fl.avif",
     },
     {
       src: "https://www.tiktok.com/@sapphiregrahaofficial/video/7450324733033319698",
       alt: "Tiktok Reel 1",
       type: "video",
-      thumbnail: "https://res.cloudinary.com/dqobwse9q/image/upload/v1754879434/01_Sumbang_potrait_ym2vtq.png",
+      thumbnail: "https://res.cloudinary.com/dqobwse9q/image/upload/v1764503776/Crop_r5c5fl.avif",
     },
 
   ]
